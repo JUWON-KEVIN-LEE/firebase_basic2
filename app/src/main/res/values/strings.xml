@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase_basic2</string>
+    <string name="sign_up">sign_up</string>
+    <string name="sign_in">sign_in</string>
+</resources>
